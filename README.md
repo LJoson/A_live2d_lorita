@@ -1,6 +1,6 @@
 # live2d看板娘效果演示
 
-初步在线效果演示
+初步在线效果演示（目前只能在pc端）
 
 https://ljoson.github.io/A_live2d_lorita/
 
