@@ -30,7 +30,8 @@ live2d_lib：网络开源模型示例
 
   ## 更多 More
 
-https://github.com/amorist/platelet
-https://github.com/akiroz/Live2D-Widget
-https://github.com/zenghongtu/PPet
-https://github.com/LikeNeko/L2dPetForMac
+- https://github.com/amorist/platelet
+
+- https://github.com/akiroz/Live2D-Widget
+- -https://github.com/zenghongtu/PPet
+- https://github.com/LikeNeko/L2dPetForMac
