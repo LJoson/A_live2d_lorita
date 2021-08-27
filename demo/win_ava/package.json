@@ -1,0 +1,16 @@
+{
+  "name": "ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+   "start": "electron .",
+    "packager":"electron-packager ./ ava --platform=win32 --arch=x64 --electron-version=13.2.1 --out=../ava_out --overwrite"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.2.1"
+  }
+}
