@@ -1,12 +1,14 @@
 # live2d看板娘效果演示
 
+初步在线效果演示，
+
 还在学习，开发中
 
 alive2d_pluigin：vue重制版的看板娘插件
 
 demo：各个平台打包版本示例（目前以web版本写）
 
-live2d_lib：网络开源模型示例
+live2d_lib：网络开源项目模型示例
 
 
 
