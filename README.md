@@ -37,5 +37,14 @@ live2d_lib：网络开源项目模型示例
 - https://github.com/amorist/platelet
 
 - https://github.com/akiroz/Live2D-Widget
-- -https://github.com/zenghongtu/PPet
+
+- https://github.com/zenghongtu/PPet
+
 - https://github.com/LikeNeko/L2dPetForMac
+
+- https://github.com/HCLonely/Live2dV3
+
+- https://github.com/Eikanya/Live2d-model
+
+- https://github.com/QiShaoXuan/live2DModel/
+
